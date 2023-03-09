@@ -1,0 +1,3 @@
+/Users/amandamonaco/Documents/GitHub/1342-pa02-amandavmonaco/cmake-build-debug/CMakeFiles/PA02_Template.dir
+/Users/amandamonaco/Documents/GitHub/1342-pa02-amandavmonaco/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/amandamonaco/Documents/GitHub/1342-pa02-amandavmonaco/cmake-build-debug/CMakeFiles/rebuild_cache.dir
